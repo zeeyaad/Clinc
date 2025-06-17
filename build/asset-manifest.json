@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Clinc/static/css/main.22f29ffa.css",
+    "main.js": "/Clinc/static/js/main.f32712bb.js",
+    "static/js/453.ad6eb26e.chunk.js": "/Clinc/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/Clinc/index.html",
+    "main.22f29ffa.css.map": "/Clinc/static/css/main.22f29ffa.css.map",
+    "main.f32712bb.js.map": "/Clinc/static/js/main.f32712bb.js.map",
+    "453.ad6eb26e.chunk.js.map": "/Clinc/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22f29ffa.css",
+    "static/js/main.f32712bb.js"
+  ]
+}
